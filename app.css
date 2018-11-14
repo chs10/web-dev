@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+#photo{
+    width: 512px; 
+    height: 235px;
+}
+#startbutton{
+    color: white;
+
+    width: 100px;
+    height: 60px;
+    vertical-align: "middle";
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+#downloadbutton{
+    color: white;
+    width: 100px;
+    height: 60px;
+    vertical-align: "middle";
+    padding: 10px;
+    border-radius: 20px;
+}
